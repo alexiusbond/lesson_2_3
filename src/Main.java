@@ -61,4 +61,5 @@ public class Main {
         System.out.println("Сумма чисел: " + (number_1 + number_2));
         System.out.println("Фраза: " + phrase);
     }
+    // Hi sensei
 }
